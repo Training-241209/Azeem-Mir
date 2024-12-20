@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.AssemblyInfo.cs
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.sourcelink.json
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\bin\Debug\net9.0\Magic Ball.exe
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\bin\Debug\net9.0\Magic Ball.deps.json
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\bin\Debug\net9.0\Magic Ball.runtimeconfig.json
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\bin\Debug\net9.0\Magic Ball.dll
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\bin\Debug\net9.0\Magic Ball.pdb
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.dll
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\refint\Magic Ball.dll
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.pdb
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\Magic Ball.genruntimeconfig.cache
+C:\Users\User\Downloads\dotnet\trainers-code\Magic Ball\obj\Debug\net9.0\ref\Magic Ball.dll

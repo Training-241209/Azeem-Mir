@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.exe
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.deps.json
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.runtimeconfig.json
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.dll
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.pdb
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.sourcelink.json
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.dll
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\refint\ExpenseTracker.dll
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.pdb
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.genruntimeconfig.cache
+C:\Users\User\Downloads\dotnet\trainers-code\ExpenseTracker\obj\Debug\net9.0\ref\ExpenseTracker.dll
