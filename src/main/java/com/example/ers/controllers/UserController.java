@@ -20,7 +20,10 @@ public class UserController {
 
     // user story - allow user to create an account
     @PostMapping("/register")
-    public ResponseEntity<User> registerUser(User user) {
+    public ResponseEntity<?> registerUser(User user) {
+        if(userService.findByUsername(user.getUsername()) != null) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Username is already in use");
+        }
         User registeredUser = userService.registerUser(user);
         return ResponseEntity.status(HttpStatus.OK).body(registeredUser);
     }
