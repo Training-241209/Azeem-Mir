@@ -13,7 +13,7 @@ public class RoleService {
 
     //set empty role to employee
     public void setRoles() {
-        if(roleRepository.findByName("employee").isEmpty()) {
+        if(roleRepository.findByRoleName("employee").isEmpty()) {
             Role employeeRole = new Role();
             employeeRole.setRoleName("employee");
             roleRepository.save(employeeRole);
@@ -22,7 +22,7 @@ public class RoleService {
 
 
     public Role getRoleByName(String roleName) {
-        return roleRepository.findByName(roleName)
+        return roleRepository.findByRoleName(roleName)
             .orElseThrow(() -> new RuntimeException("Role does not exist"));
     }
 

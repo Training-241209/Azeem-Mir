@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\dotnet\\trainers-code\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\User\\Downloads\\ers\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\dotnet\\trainers-code\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\User\\Downloads\\ers\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\dotnet\\trainers-code\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\ers\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\User\\Downloads\\dotnet\\trainers-code\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\ers\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\dotnet\\trainers-code\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\ers\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

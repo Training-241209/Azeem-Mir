@@ -1,9 +1,11 @@
 package com.example.ers.models;
 
 import java.util.List;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import lombok.Data;
 
+//user entity class, corresponds to user table for user information
 @Entity
 @Table(name="users")
 @Data
@@ -29,12 +31,24 @@ public class User{
     private String email;
 
     @ManyToOne
-    @JoinColumn(name = "role_id", nullable=false)
+    @JoinColumn(name = "role_id", referencedColumnName="role_id", nullable=false)
     private Role role;
 
+    //a user can have many ticketss
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
+    @JsonManagedReference
     private List<Reimbursement> reimbursements;
 
-   // @OneToOne(mappedBy="user", cascade = CascadeType.ALL)
-   // private Session session;
+   @Override
+   public String toString() {
+       return "User{" +
+               "userId=" + userId +
+               ", firstName='" + firstName + '\'' +
+               ", lastName='" + lastName + '\'' +
+               ", username='" + username + '\'' +
+               ", email='" + email + '\'' +
+               ", role=" + (role != null ? role.getRoleName() : "null") +
+               '}';
+   }
+   
 }
